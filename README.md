@@ -43,3 +43,22 @@ The main queries we are looking at are:
 11. Calculate the percentage contribution of each pizza type to total revenue.
 12. Analyze the cumulative revenue generated over time.
 13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+Recommendations:
+
+1. Stock Management:
+
+Focus on stock adjustment during the busiest hours (12 PM to 1 PM) to ensure sufficient ingredients for popular pizzas, avoiding shortages.
+
+2. Promotions:
+
+Promote high-revenue pizzas like Barbecue Chicken, Thai Chicken, and California Chicken by offering special deals and discounts.
+
+3. Off-Peak Strategies:
+
+Introduce "Combo Meal Deals" during off-peak hours to stimulate sales volume.
+Offer discounts on slow-selling items to increase their sales.
+
+4. Morning Offers:
+
+Provide special offers or waive delivery charges during morning hours (9 AM to 10 AM) to increase sales. Additionally, consider selling pizza slices individually for breakfast.
