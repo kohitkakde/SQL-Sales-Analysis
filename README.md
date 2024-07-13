@@ -1,6 +1,6 @@
 # 🍕 SQL Pizza Sales Analysis
 
-[![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql))
+[![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)
 
 ## 🌟 Project Overview
 
@@ -63,4 +63,4 @@ The project database consists of several tables. Below is an overview of the pri
 
 ---
 
-You can view the SQL code [here]([https://github.com/your-username/your-repo-name/blob/main/your-sql-file.sql](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql).
+You can view the SQL code [here](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql).
