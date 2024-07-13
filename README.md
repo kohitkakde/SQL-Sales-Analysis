@@ -1,10 +1,10 @@
 # 🍕 SQL Pizza Sales Analysis.
 
-[![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)        [![Canva](https://img.shields.io/badge/Canva-Design-blue)](https://www.canva.com/[design/DAGHGDg0J54/a9HPnjDmy9HFhxivWfnQMA/edit?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGHGDg0J54/a9HPnjDmy9HFhxivWfnQMA/edit?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)        [![Canva](https://img.shields.io/badge/Canva-Design-blue)](https://www.canva.com/design/DAGHGDg0J54/a9HPnjDmy9HFhxivWfnQMA/edit?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## 🌟 Project Overview.
 
 This project utilizes SQL to analyze a dataset of pizza sales, aiming to discover valuable insights into sales operations. This includes customer segmentation, trends, artist effectiveness, customer interests, expenditure patterns, and revenue growth.
-
+https://www.canva.com/design/DAGHGDg0J54/a9HPnjDmy9HFhxivWfnQMA/edit?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 🌟 Project Objectives
 
 - 📈 Evaluate the performance of different pizza categories.
