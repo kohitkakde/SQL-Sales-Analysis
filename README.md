@@ -63,4 +63,4 @@ The project database consists of several tables. Below is an overview of the pri
 
 ---
 
-You can view the SQL code [here](https://github.com/your-username/your-repo-name/blob/main/your-sql-file.sql).
+You can view the SQL code [here]([https://github.com/your-username/your-repo-name/blob/main/your-sql-file.sql](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)).
