@@ -1,4 +1,4 @@
-# 🍕 SQL Pizza Sales Analysis.
+# 🍕 SQL Sales Analysis.
 
 [![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)        [![Canva](https://img.shields.io/badge/Canva-Design-blue)](https://www.canva.com/design/DAGHGDg0J54/bTfrknH7L45LB00C5KejbQ/view?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## 🌟 Project Overview.
