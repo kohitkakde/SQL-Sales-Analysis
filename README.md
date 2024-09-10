@@ -1,34 +1,34 @@
 # 🍕 SQL Sales Analysis.
 
 [![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/SQL-Pizza-Sales-Analysis/blob/main/pizza%20sales%20queries.sql)        [![Canva](https://img.shields.io/badge/Canva-Design-blue)](https://www.canva.com/design/DAGHGDg0J54/bTfrknH7L45LB00C5KejbQ/view?utm_content=DAGHGDg0J54&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-## 🌟 Project Overview.
+## Project Overview.
 
 This project utilizes SQL to analyze a dataset of pizza sales, aiming to discover valuable insights into sales operations. This includes customer segmentation, trends, artist effectiveness, customer interests, expenditure patterns, and revenue growth.
 
-## 🌟 Project Objectives
+##  Project Objectives
 
 - 📈 Evaluate the performance of different pizza categories.
 - ⏰ Understand peak order times and customer interests.
 - 📊 Gather information on average daily sales.
 - 🧐 Extract valuable insights from pizza sales data.
 
-## 🌟 Features
+## Features
 
 - 🛠️ **Database Creation**: Scripts for creating and initializing the database.
 - 🔍 **Complex Queries**: Advanced SQL queries, including joins, subqueries, and aggregations.
 - 📊 **Data Analysis**: Analytical queries to derive insights from the data.
 - 🔄 **Window Functions**: Implementation of window functions.
 
-## 🌟 Database Structure
+## Database Structure
 
 The project database consists of several tables. Below is an overview of the primary tables:
 
-- 📦 **Orders**: Records of customer orders.
-- 🍕 **Pizza_Type**: Information about pizza categories and types.
-- 🍕 **Pizzas**: Details of available pizzas.
-- 📝 **Order_details**: Specifics of items within an order.
+-  **Orders**: Records of customer orders.
+-  **Pizza_Type**: Information about pizza categories and types.
+-  **Pizzas**: Details of available pizzas.
+-  **Order_details**: Specifics of items within an order.
 
-## 🌟 Key Queries
+## Key Queries
 
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
@@ -44,7 +44,7 @@ The project database consists of several tables. Below is an overview of the pri
 12. Analyze the cumulative revenue generated over time.
 13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-## 🌟 Recommendations
+## Recommendations
 
 - **Stock Management**:
   - 🕛 Focus on stock adjustment during the busiest hours (12 PM to 1 PM) to ensure sufficient ingredients for popular pizzas, avoiding shortages.
